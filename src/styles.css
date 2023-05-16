@@ -1,0 +1,33 @@
+* {
+  text-align: center;
+}
+/* .search-box {
+  text-align: center;
+} */
+body {
+  background-color: aquamarine;
+}
+.container {
+  margin: 2rem auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  flex-wrap: wrap;
+}
+.card {
+  background-color: #ddd;
+  color: navy;
+  padding: 0.5rem;
+  margin: 0.5rem;
+  width: 15rem;
+  height: 15rem;
+  border-radius: 12px;
+  box-shadow: 3px 4px 12px #222;
+}
+.card:hover {
+  transition: all 0.45s;
+  transform: translate(4px, -4px);
+}
+img {
+  width: 200px;
+  height: 160px;
+}
