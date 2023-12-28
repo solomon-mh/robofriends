@@ -5,7 +5,7 @@ export const robots = [
     id: 1,
   },
   {
-    name: "Hujdblan",
+    name: "Elias Ayana",
     email: "gnos@gmail.com",
     id: 2,
   },
