@@ -10,7 +10,7 @@ export const robots = [
     id: 2,
   },
   {
-    name: "ksieo",
+    name: "Jemberu Kassie",
     email: "nxsi@gmail.com",
     id: 3,
   },
