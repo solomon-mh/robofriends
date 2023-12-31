@@ -11,7 +11,7 @@ export const robots = [
   },
   {
     name: "Jemberu Kassie",
-    email: "nxsi@gmail.com",
+    email: "jemberu@gmail.com",
     id: 3,
   },
   {
