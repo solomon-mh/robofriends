@@ -25,7 +25,7 @@ export const robots = [
     id: 5,
   },
   {
-    name: "bskks",
+    name: "Abebe Lemma",
     email: "sdsk@gmail.com",
     id: 6,
   },
