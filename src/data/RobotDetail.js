@@ -26,7 +26,7 @@ export const robots = [
   },
   {
     name: "Abebe Lemma",
-    email: "sdsk@gmail.com",
+    email: "abex@gmail.com",
     id: 6,
   },
   {
