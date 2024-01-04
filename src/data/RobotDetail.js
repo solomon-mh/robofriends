@@ -30,7 +30,7 @@ export const robots = [
     id: 6,
   },
   {
-    name: "gdkaosd",
+    name: "Ezira Tgab",
     email: "werw@gmail.com",
     id: 7,
   },
