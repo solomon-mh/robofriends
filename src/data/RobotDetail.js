@@ -31,7 +31,7 @@ export const robots = [
   },
   {
     name: "Ezira Tgab",
-    email: "werw@gmail.com",
+    email: "sutual@gmail.com",
     id: 7,
   },
   {
