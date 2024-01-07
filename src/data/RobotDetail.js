@@ -57,7 +57,7 @@ export const robots = [
   {
     id: 12,
     name: "Daniel Assamn",
-    email: "Lucio_Hettinger@annie.ca",
+    email: "danny@dan.ca",
   },
   {
     id: 13,
