@@ -77,7 +77,6 @@ export const robots = [
   {
     id: 16,
     name: "Glenna Reichert",
-    username: "Delphine",
     email: "Chaim_McDermott@dana.io",
   },
   {
