@@ -62,7 +62,6 @@ export const robots = [
   {
     id: 13,
     name: "Mrs. Dennis Schulist",
-    username: "Leopoldo_Corkery",
     email: "Karley_Dach@jasper.info",
   },
   {
