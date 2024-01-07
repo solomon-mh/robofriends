@@ -37,7 +37,7 @@ export const robots = [
   {
     id: 8,
     name: "Seada Jemal",
-    email: "Sincere@april.biz",
+    email: "seadi@april.biz",
   },
   {
     id: 9,
