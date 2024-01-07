@@ -72,7 +72,6 @@ export const robots = [
   {
     id: 15,
     name: "Nicholas Runolfsdottir V",
-    username: "Maxime_Nienow",
     email: "Sherwood@rosamond.me",
   },
   {
