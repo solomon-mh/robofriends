@@ -41,7 +41,7 @@ export const robots = [
   },
   {
     id: 9,
-    name: "Ervin Howell",
+    name: "Jemal Workie",
     username: "Antonette",
     email: "Shanna@melissa.tv",
   },
