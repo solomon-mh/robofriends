@@ -42,7 +42,6 @@ export const robots = [
   {
     id: 9,
     name: "Jemal Workie",
-    username: "Antonette",
     email: "Shanna@melissa.tv",
   },
   {
