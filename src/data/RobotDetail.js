@@ -42,7 +42,7 @@ export const robots = [
   {
     id: 9,
     name: "Jemal Workie",
-    email: "Shanna@melissa.tv",
+    email: "jemo@melissa.tv",
   },
   {
     id: 10,
