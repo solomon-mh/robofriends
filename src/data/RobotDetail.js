@@ -47,7 +47,6 @@ export const robots = [
   {
     id: 10,
     name: "Kassaw Lemma",
-    username: "Samantha",
     email: "Nathan@yesenia.net",
   },
   {
