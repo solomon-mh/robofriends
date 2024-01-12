@@ -56,7 +56,7 @@ export const robots = [
   },
   {
     id: 12,
-    name: "Chelsey Dietrich",
+    name: "Daniel Assamn",
     username: "Kamren",
     email: "Lucio_Hettinger@annie.ca",
   },
