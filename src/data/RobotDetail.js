@@ -52,7 +52,6 @@ export const robots = [
   {
     id: 11,
     name: "Kalkidan Dessalew",
-    username: "Karianne",
     email: "Julianne.OConner@kory.org",
   },
   {
