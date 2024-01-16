@@ -52,7 +52,7 @@ export const robots = [
   {
     id: 11,
     name: "Kalkidan Dessalew",
-    email: "Julianne.OConner@kory.org",
+    email: "kal@gmail.org",
   },
   {
     id: 12,
